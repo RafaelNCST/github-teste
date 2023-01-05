@@ -1,0 +1,50 @@
+.card-body {
+    padding: 1.5rem 3rem 1.5rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.bottom-itens {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dot-separator {
+    border-radius: 50px;
+    background-color: #8190A5;
+    height: 5px;
+    width: 5px;
+}
+
+.line {
+    background-color: #9a9ca155;
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid #8a8c9046;
+}
+
+.repo-name-text {
+    font-size: 1.3rem;
+    color: #3B4252;
+}
+
+.description-text {
+    font-size: 0.9rem;
+    color: #3B4252;
+}
+
+.bottom-text {
+    font-size: 0.8rem;
+    color: #8190A5;
+}
+
+.texts-all {
+    font-style: normal;
+    line-height: 1.5;
+    text-align: justify;
+}
